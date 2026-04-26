@@ -18,7 +18,7 @@ One chemical feeds the pattern. The other chemical removes or changes it. At eve
 - cell-like blobs
 - branching mazes
 
-These kinds of patterns are often called Turing patterns, after Alan Turing, who studied how simple chemical processes could create natural forms.
+These kinds of patterns are often called Turing patterns, after Alan Turing, who studied how simple chemical processes could create natural forms. For a visual explanation of the idea, watch this short video on [Turing patterns](https://www.youtube.com/watch?v=alH3yc6tX98).
 
 ## How To Run
 
