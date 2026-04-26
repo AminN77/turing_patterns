@@ -2,6 +2,8 @@
 
 An interactive reaction-diffusion playground built with Python, Pygame, and NumPy.
 
+[<img src="assets/reaction_diffusion_hero.jpg" alt="Reaction Diffusion app showing a glowing orange pattern and control panel" width="100%">](assets/reaction_diffusion_hero.jpg)
+
 You do not need to know the math to enjoy it. Open the app, choose a preset, drag on the canvas, and watch tiny chemical rules grow into coral, stripes, mazes, fingerprints, and other organic-looking patterns.
 
 ## What Am I Looking At?
@@ -55,8 +57,6 @@ The `Feed` and `Kill` sliders change the behavior live. Small adjustments can co
 
 ## Screenshots
 
-![Reaction Diffusion app showing a glowing orange pattern and control panel](assets/reaction_diffusion_ui.png)
-
 Press `S` to save the current canvas as a PNG in the `screenshots/` folder.
 
-The app saves new screenshots locally so you can collect your favorite moments while exploring presets and painting into the simulation.
+The app saves new screenshots locally so you can collect your favorite moments while exploring presets and painting into the simulation. Add your favorites to `assets/` if you want them to appear on GitHub.
